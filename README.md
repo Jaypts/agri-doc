@@ -114,6 +114,6 @@ No `npm install`, no API keys required to try it, no cost to run.
 
 ## Built by
 
-I'm Jay, a student in Uganda building AI tools for the smallholder farmers I grew up around. This was built solo for the Prometheus July AI Challenge.
+I'm Jay, a student in Uganda building AI tools for the smallholder farmers I grew up around
 
 GitHub: [@Jaypts](https://github.com/Jaypts)
